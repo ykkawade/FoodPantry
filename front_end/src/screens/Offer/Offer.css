@@ -1,0 +1,18 @@
+.w_100_h_100 {
+    width: 100%;
+    height: 100%;
+}
+
+.offer_package {
+    background-color: rgb(145, 38, 38);
+    width: 100%;
+    height: 100%;
+    padding: 0.5rem;
+}
+
+.offer_map {
+    background-color: rgb(129, 152, 43);
+    width: 100%;
+    height: 100%;
+    padding: 0.5rem;
+}
